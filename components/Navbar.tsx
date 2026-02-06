@@ -7,6 +7,7 @@ const navLinks = [
   { href: '/#projects', label: 'Projects' },
   { href: '/#skills', label: 'Skills' },
   { href: '/#experience', label: 'Experience' },
+  { href: '/contact', label: 'Contact' }, // Changed: Added Contact link
 ]
 
 export default function Navbar() {
