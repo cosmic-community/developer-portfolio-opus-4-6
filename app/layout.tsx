@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: 'Developer Portfolio | Projects, Skills & Experience',
   description:
     'A modern developer portfolio showcasing projects, technical skills, and professional work experience. Built with Next.js and Cosmic CMS.',
+  icons: {
+    icon: "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👨‍💻</text></svg>",
+  },
 }
 
 export default function RootLayout({
