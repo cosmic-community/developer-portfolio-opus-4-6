@@ -26,6 +26,13 @@ export default function Footer() {
           >
             Experience
           </a>
+          {/* Changed: Added Contact link */}
+          <a
+            href="/contact"
+            className="text-sm text-gray-400 hover:text-white transition-colors"
+          >
+            Contact
+          </a>
         </div>
       </div>
     </footer>
